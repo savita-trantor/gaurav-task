@@ -1,0 +1,17 @@
+.mdi-close:before, .mdi-table-edit:before {font-size: 20px; padding: 0 2px;}
+a {color: #333;}
+a:hover {color: #999;}
+.page-item.active .page-link {background: #fc3; color: #333;}
+.login .p-t-20 button, .login .p-t-20 a {width: 100%; border-radius: 2px; height: 44px; border: 0; font-weight: bold; line-height: 30px;}
+html[dir=ltr] .login .p-b-30 {padding: 0;}
+.login .input-group-text {border: 0;}
+table.dataTable {border-collapse: collapse !important;}
+table.dataTable th {font-weight: bold;}
+.btn-warning.focus, .btn-warning:focus, .btn-warning:not(:disabled):not(.disabled):active:focus {box-shadow: none; -webkit-box-shadow: none; border: 1px solid #ffb848;}
+.btn-secondary.focus, .btn-secondary:focus, .btn-secondary:not(:disabled):not(.disabled):active {box-shadow: none !important; -webkit-box-shadow: none; border: 1px solid #6c757d;}
+html[dir=ltr] body#moduleName .p-b-30 {padding: 0;}
+#moduleName label.col-form-label {font-weight: bold;}
+.btn {margin-right: 10px;}
+.navbar-nav .dropdown {color: #fff; margin: 23px 20px 20px 0px;}
+.page-item.active .page-link {border-color: #666;}
+.edit-image {display: flex; margin-top: 15px;}
